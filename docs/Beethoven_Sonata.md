@@ -1,11 +1,11 @@
-Violin Sonata #7 in C minor, Opus 30, #2 (1802) 
-Ludwig van Beethoven (December 16, 1770&#150;March 26, 1827)
-Dedicated to Czar Alexander I of Russia 
+# Violin Sonata #7 in C minor, Opus 30, #2 (1802) 
+by Ludwig van Beethoven (December 16, 1770&mdash;March 26, 1827)
+*Dedicated to Czar Alexander I of Russia*
 
-III Allegro con brio 
-III Adagio cantabile 
-III Scherzo (Allegro) 
-III Finale (Allegro) 
+I. Allegro con brio  
+II. Adagio cantabile  
+III. Scherzo (Allegro)  
+IV. Finale (Allegro)  
 
 Beethoven was not a man you would want to meet socially. He had a stormy personality and a fierce temper. He was the first composer to consider himself an <I>artist</I> and was conscious of writing music not just for his time, but for posterity. He was comfortable with aristocracy to an extent that no musician, not even Mozart, had been before him. He was egotistical, and considered himself superior even to kings. But he was right; his music is alive and strong today, while the nobles of his time are remembered chiefly for their role in supporting his music. 
 
