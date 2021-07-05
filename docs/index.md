@@ -1,8 +1,11 @@
-## Program Notes written for the University of Rochester Orchestras
+## Program Notes (mostly) written for the University of Rochester Orchestras
 
-* [Arutunian Concerto](./docs/Arutunian_Concerto.md) 
-* [Prokofiev 1](./notes/Prokofiev_Symphony1.txt) 
+* [Arutunian Concerto](./Arutunian_Concerto.html) 
+* [Bach Concerto](./Bach_Concerto.md) 
+* [Beethoven Overture](./Beethoven_Overture.md) 
+* [Beethoven Sonata](./Beethoven_Sonata.md) 
 
+---
 You can use the [editor on GitHub](https://github.com/jsundram/program-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
