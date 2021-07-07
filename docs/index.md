@@ -1,10 +1,11 @@
 ## Program Notes (mostly) written for the University of Rochester Orchestras
 
-* [Arutunian Concerto](./Arutunian_Concerto.html) 
-* [Bach Concerto](./Bach_Concerto.md) 
-* [Beethoven Overture](./Beethoven_Overture.md) 
-* [Beethoven Sonata](./Beethoven_Sonata.md) 
-* [Beethoven Symphony](./Beethoven_Symphony.md) 
+* [Arutunian - Trumpet Concerto](./Arutunian_Concerto.html) 
+* [Bach - Violin Concerto in E major, BWV 1042](./Bach_Concerto.md) 
+* [Beethoven - Overture to Fidelio, Opus 72b](./Beethoven_Overture.md) 
+* [Beethoven - Violin Sonata #7 in C minor, Opus 30, #2](./Beethoven_Sonata.md) 
+* [Beethoven - Symphony #7 in A major, Opus 92](./Beethoven_Symphony.md) 
+* [Bernstein - Overture to West Side Story](./Bernstein_Overture.md) 
 
 ---
 You can use the [editor on GitHub](https://github.com/jsundram/program-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
