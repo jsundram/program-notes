@@ -1,0 +1,13 @@
+# Symphony in C major (1855)
+by Georges Bizet (October 25, 1858&mdash;June 3, 1875)
+
+I. Allegro vivo  
+II. Adagio  
+III. Allegro vivace; Trio  
+IV. Allegro vivace  
+
+Who knows what Bizet might have accomplished had he not died at age 37? An inordinately gifted child, Bizet entered the Paris Conservatory at age 9 and won every prize in sight. His C-major symphony, written at age 17, augured a bright future. Written in a single month, the symphony is remarkable not so much for its originality, but for its skillful reworking of others' designs. 
+
+Unearthed from the archives of the Paris Conservatory nearly 80 years after its composition, the symphony was unmentioned by Bizet in his letters and unknown to his early biographers. Its close resemblance to its principal model, Gounod's *Symphony #1 in D*, which premiered earlier in 1855, may explain this suppression. The fanfares, sequential development, fugato in the slow movement, and rushing string figures are elements shared with the Gounod symphony. However, Bizet's symphony outstrips Gounod's, showing a grasp of overall design unusual for one so young. Though similar to Schubert's early symphonies, it is terse, where Schubert can be palaverous. Bizet clearly owes more to Haydn and Mozart, as he would not have been familiar with Schubert's music. 
+
+"I have the courage to prefer Raphael to Michaelangelo, Mozart to Beethoven, and Rossini to Meyerbeer," Bizet wrote. The symphony in C is Apollonian, rather than Dionysian; it shows Bizet as a spontaneous melodist and charming orchestrator. Its first performance was given on February 26, 1935 under the baton of Felix Weingartner. The lively first movement contrasts two subjects, the first Beethovenian, the second, Mozartian. Crisp phrases crackle with nervous brilliance. The orchestration, neat and balanced, foreshadows his later opera *Carmen*. The *Adagio* seems inspired by Rossini. It opens with a mournful, exotic oboe theme against string pizzicato. Both elegant and prophetic, its melodic flow is interrupted by a deft fugue in the central section. The third movement is the most perfect in form. It consists of a fast minuet contrasted with *arioso* passages. The first theme breaks out of the usual 4- and 8-bar phrases and is used as counterpoint for the following string theme. The ensuing trio is a peasant-like dance which draws upon the first theme as its chief material. The final movement opens with a *moto perpetuo* in the first violins. This foreshadows *Carmen* more directly than the *Allegro vivo* does. Indeed, Bizet's first symphonic blooming is closer to *Carmen*, his greatest work, than anything else he composed thereafter.
