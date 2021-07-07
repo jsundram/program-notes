@@ -2,11 +2,12 @@
 
 * [Arutunian - Trumpet Concerto](./Arutunian_Concerto.html) 
 * [Bach - Violin Concerto in E major, BWV 1042](./Bach_Concerto.md) 
-* [Beethoven - Overture to Fidelio, Opus 72b](./Beethoven_Overture.md) 
 * [Beethoven - Violin Sonata #7 in C minor, Opus 30, #2](./Beethoven_Sonata.md) 
+* [Beethoven - Overture to Fidelio, Opus 72b](./Beethoven_Overture.md) 
 * [Beethoven - Symphony #7 in A major, Opus 92](./Beethoven_Symphony.md) 
 * [Bernstein - Overture to West Side Story](./Bernstein_Overture.md) 
 * [Bizet - Symphony in C](./Bizet_Symphony.md) 
+* [Brahms - Symphony #1 in C minor, Opus 68](./Brahms_Sonata.md) 
 * [Brahms - Violin Sonata #1 in G major, Opus 78](./Brahms_Sonata.md) 
 
 ---
