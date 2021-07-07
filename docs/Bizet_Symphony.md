@@ -1,5 +1,5 @@
 # Symphony in C major (1855)
-by Georges Bizet (October 25, 1858&mdash;June 3, 1875)
+by Georges Bizet (October 25, 1858&ndash;June 3, 1875)
 
 I. Allegro vivo  
 II. Adagio  

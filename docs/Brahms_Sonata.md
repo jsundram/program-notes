@@ -1,5 +1,5 @@
 # Violin Sonata #1 in G major, Opus 78 "Rain" (1879) 
-by Johannes Brahms (May 7, 1833&mdash;April 3, 1897) 
+by Johannes Brahms (May 7, 1833&ndash;April 3, 1897) 
 
 I. Vivace ma non troppo  
 II. Adagio  

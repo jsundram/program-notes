@@ -1,5 +1,5 @@
 # Violin Concerto in E major, BWV 1042 (1717)
-by Johann Sebastian Bach (March 21, 1685&mdash;July 28, 1750)
+by Johann Sebastian Bach (March 21, 1685&ndash;July 28, 1750)
 
 I. Allegro  
 II. Adagio  

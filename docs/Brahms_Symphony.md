@@ -1,5 +1,5 @@
 # Symphony #1 in C minor, Opus 68 (1876)
-by Johannes Brahms (May 7, 1833&mdash;April 3, 1897)
+by Johannes Brahms (May 7, 1833&ndash;April 3, 1897)
 
 I. Un poco sostenuto: Allegro  
 II. Andante sostenuto  

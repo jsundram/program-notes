@@ -1,5 +1,5 @@
 # Overture to *West Side Story* (1957)
-by Leonard Bernstein (August 25, 1918&mdash;October 14, 1990)
+by Leonard Bernstein (August 25, 1918&ndash;October 14, 1990)
 
 
 Leonard Bernstein admitted that the subject of *West Side Story* was "less important than the bigger idea of making a musical that tells a tragic story in musical-comedy terms." The all-star team of Jerome Robbins (choreography), a young Stephen Sondheim (lyrics), Leonard Bernstein (music), and Arthur Laurent (libretto) worked closely together to make such a musical.

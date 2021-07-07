@@ -1,5 +1,5 @@
 # Violin Sonata #7 in C minor, Opus 30, #2 (1802) 
-by Ludwig van Beethoven (December 16, 1770&mdash;March 26, 1827)  
+by Ludwig van Beethoven (December 16, 1770&ndash;March 26, 1827)  
 *Dedicated to Czar Alexander I of Russia*
 
 I. Allegro con brio  

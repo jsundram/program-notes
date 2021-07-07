@@ -1,5 +1,5 @@
 # Symphony #7 in A major, Opus 92 (1812)
-by Ludwig van Beethoven (December 16, 1770&mdash;March 26, 1827)
+by Ludwig van Beethoven (December 16, 1770&ndash;March 26, 1827)
 
 I. Poco sostenuto -- vivace  
 II. Allegretto  
