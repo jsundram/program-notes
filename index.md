@@ -2,13 +2,38 @@
 
 [Index](./docs/index.html) 
 
-having some problems getting &rcarom; to render properly; ended up using `&#345;` instead.
-added `kramdown: input: GFM` to _config.yml didn't seem to make a difference, even with `gfm_quirks: [no_auto_typographic]`
+---
+### Workflow
+1. `git mv ../notes/Chavez_Toccata.txt Chavez_Toccata.md`
+2. vim Chavez_Toccata.md (see notes below)
+3. vim index.md
+4. git add index.md Chavez_Toccata.md
+5. git commit -m"Chavez"
+6. git push
 
+### Notes:
+* index.md - link to .html files (they don't exist but will be created).
+* two spaces at end of line to get a line break
+* convert unicode to entities 
+  * em-dash &mdash;
+  * en-dash &ndash;
+  * r circumflex Dvo&rcaron;&aacute;k
+  * find unicode characters: `/[^\x00-\x7F]` and convert to html entities, e.g. o with umlaut &ouml;)
+      * https://dev.w3.org/html5/html-author/charref)
+* fix screwed up apostrophes in vim `:%s/\%x92/\'/g` (from [here](https://stackoverflow.com/questions/430554/vim-how-do-i-search-for-a-xx-single-byte-representation))
+* vim :set fileencoding=utf-8
+* `bundle exec jekyll serve` to check for build fails due to non-replaced unicode characters.
+* see site at https://jsundram.github.io/program-notes/
+
+### Unsolved
+* having some problems getting &rcarom; to render properly; ended up using `&#345;` instead. added `kramdown: input: GFM` to _config.yml didn't seem to make a difference, even with `gfm_quirks: [no_auto_typographic]`
+
+---
 You can use the [editor on GitHub](https://github.com/jsundram/program-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
