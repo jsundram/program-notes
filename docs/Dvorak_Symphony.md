@@ -1,0 +1,20 @@
+# Symphony #8 (#4) in G major, Opus 88
+by Anton&iacute;n Dvo&rcaron;&aacute;k (September 8, 1841&ndash;May 1, 1904)
+
+I. Allegro con brio  
+II. Adagio  
+III. Allegretto grazioso; molto vivace  
+IV. Allegro ma non troppo  
+
+
+Born in M&uuml;hlhausen on September 8, 1841 Dvo&rcaron;&aacute;k was certainly the greatest of the Czech composers. Although he exhibited musical talent at an early age, he was an apprentice butcher at the age of 19. Fortunately for posterity, he decided to pursue his fortune in music, and went to Prague to earn a living as a violinist and violist. His *Moravian Duets* attracted the attention of Brahms; at Brahms' insistence, he entered and won a composition competition in Vienna. In 1873, the popularity of his patriotic composition *Hymnus* convinced him to dedicate himself to the composition and teaching of music.
+
+Dvo&rcaron;&aacute;k began his eighth symphony on August 26, 1889. During the months that followed, he was inundated with commissions. He complained to his friend G&ouml;bel that his head was "so full of ideas" that he couldn't write then down fast enough.  *Symphony #8* was completed on November 8, 1889 and premiered under Dvo&rcaron;&aacute;k's direction in Prague on February 2, 1890. 
+
+Simrock, his publisher, offered him a mere 1,000 marks (roughly $850) for this symphony. He complained that he wanted shorter pieces, which would sell more copies. Compare this to 40,000 marks for Brahms' *Symphony #4*, and 6,000 for Dvo&rcaron;&aacute;k's previous symphony. Enraged, Dvo&rcaron;&aacute;k went to the English publisher Novello instead, and the work was published in 1892. Its early nickname of the *English* symphony stems from this, but is a misnomer: it wasn't premiered by an English orchestra, and was dedicated to the Bohemian Academy. 
+
+Conscious of a stylistic gulf between his early and mature works, Dvo&rcaron;&aacute;k suppressed some of his early symphonies. As a result, the symphonies presently known as 6-9 were traditionally called 1, 2, 4, and 5. What is now *Symphony #5* was known as #3 (it was published 13 years after its composition by the errant Simrock), and the other four symphonies weren't really acknowledged. Indeed, two survive by serendipity alone: Dvo&rcaron;&aacute;k intended them to be lost. 
+
+*Symphony #8* is a change in style for Dvo&rcaron;&aacute;k, more rhapsodic than contrapuntal. At the time he was writing it, he was inundated with commissions for other works. As a result, he avoids some of the instrumental intricacies that a more complex symphony would require. Dvo&rcaron;&aacute;k said of this symphony: "[it] will be different from other symphonies, with individual thoughts worked out in a new way." This was confirmed by Kretschmar, an early analyst of Dvo&rcaron;&aacute;k's work, who claimed that the it wasn't really even a symphony: the themes in the first movement don't develop according to the symphonic norm. Kretschmar thought it to be more of a symphonic poem, or a Slavonic rhapsody. Dvo&rcaron;&aacute;k's Czech biographer agreed that the symphony wasn't important for its form, but for its spirit: "this symphony is not profound. . .it is a simple lyric singing of the beauty of our country." 
+
+Though the symphony is in G major, it opens in g minor. In addition, the repeat of the exposition is false--it is actually the beginning of the development. The gorgeous opening melody in the *celli* was actually an afterthought by Dvo&rcaron;&aacute;k. The second movement, a funeral march was originally sketched in C major, but Dvo&rcaron;&aacute;k penned three flats into the score to make it in E flat major, which changed its character immensely. In place of the expected scherzo, the third movement is a leisurely dance. The theme from its trio is drawn from Dvo&rcaron;&aacute;k's 1874 comic opera *The Stubborn Lovers*. Arriving at the finale theme was a thorny business for Dvo&rcaron;&aacute;k: despite his other commitments, he made ten sketches before he was satisfied with its theme. Though slow to be acclaimed, Dvo&rcaron;&aacute;k's *Symphony #8* has won a lasting place in modern concert repertory. 
