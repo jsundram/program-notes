@@ -12,6 +12,7 @@
 * [C.P.E. Bach - Magnificat in D major](./CPEBach_Magnificat.md) 
 * [Chavez - Toccata](./Chavez_Toccata.md) 
 * [Copland - "Laurie's Song" from The Tenderland](./Copland_Song.md) 
+* [Debussy - Afternoon of a Faun](./Debussy_Afternoon.md) 
 
 ---
 You can use the [editor on GitHub](https://github.com/jsundram/program-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
