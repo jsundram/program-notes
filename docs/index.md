@@ -1,4 +1,4 @@
-## Program Notes (mostly) written for the University of Rochester Orchestras
+## Program Notes (mostly) written for the University of Rochester Orchestras 
 
 * [Arutunian - Trumpet Concerto](./Arutunian_Concerto.html)
 * [Bach - Violin Concerto in E major, BWV 1042](./Bach_Concerto.html)
@@ -13,5 +13,5 @@
 * [Chavez - Toccata](./Chavez_Toccata.html)
 * [Copland - "Laurie's Song" from The Tenderland](./Copland_Song.html)
 * [Debussy - Afternoon of a Faun](./Debussy_Afternoon.html)
-* [Dvo&rcaron;&aacute;k - Symphony #8 in G major](./Dvorak_Symphony.html)
+* [Dvo&#345;&aacute;k - Symphony #8 in G major](./Dvorak_Symphony.html)
 
