@@ -2,6 +2,9 @@
 
 [Index](./docs/index.html) 
 
+having some problems getting &rcarom; to render properly; ended up using `&#345;` instead.
+added `kramdown: input: GFM` to _config.yml didn't seem to make a difference, even with `gfm_quirks: [no_auto_typographic]`
+
 You can use the [editor on GitHub](https://github.com/jsundram/program-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
