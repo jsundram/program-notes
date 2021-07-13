@@ -1,7 +1,6 @@
 ## Program Notes written for the University of Rochester Orchestras
 
-* [Arutunian Concerto](./docs/Arutunian_Concerto.md) 
-* [Prokofiev 1](./notes/Prokofiev_Symphony1.txt) 
+[Index](./docs/index.html) 
 
 You can use the [editor on GitHub](https://github.com/jsundram/program-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
