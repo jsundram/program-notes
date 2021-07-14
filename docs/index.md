@@ -14,6 +14,5 @@
 * [Copland - "Laurie's Song" from The Tenderland](./Copland_Song.html)
 * [Debussy - Afternoon of a Faun](./Debussy_Afternoon.html)
 * [Dvo&#345;&aacute;k - Symphony #8 in G major](./Dvorak_Symphony.html)
-
-&rcarom;
+* [Franck - Violin Sonata in A major](./Franck_Sonata.html)
 
