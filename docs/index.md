@@ -22,6 +22,7 @@
 * [Mozart - Piano Concerto #20 in D minor, K. 466](./Mozart_Concerto.html)
 * [Mozart - A Musical Joke, K. 522](./Mozart_Joke.html)
 * [Mozart - Symphony #31 in D major *Paris* K. 297 (300a)](./Mozart_Symphony.html)
+* [Prokofiev - Symphony #1 in D major, "Classical," Opus 25](./Prokofiev_Symphony1.html)
 
 
 
