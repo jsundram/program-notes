@@ -26,6 +26,7 @@
 * [Prokofiev - Symphony #5 in B-flat, Opus 100](./Prokofiev_Symphony5.html)
 * [Ravel - Rhapsodie Espagnole](./Ravel_Rhapsodie.html)
 * [Rossini - Overture to *La Cenerentola*](./Rossini_OvertureC.html)
+* [Rossini - Overture to *Gillaume Tell*](./Rossini_OvertureW.html)
 
 
 
