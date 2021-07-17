@@ -5,5 +5,5 @@ This is a collection of program notes that I wrote while I was a student at the 
 I've gotten periodic reachouts asking for permission to use these in concert programs. I'm happy to see them used that way; I'd ask that if possible, you mail me a copy of the printed program. It's fun to see this work show up in various places across the world.
 
 
-[Index of Program Notes](./docs/index.html) 
+[Index of Program Notes](https://jsundram.github.io/program-notes/)
 
