@@ -30,6 +30,7 @@
 * [Shostakovich - Six Romances on Lyrics by British Poets, Opus 62/140](./Shostakovich_Romances.html)
 * [Sibelius - Symphony #2 in D major, Opus 43](./Sibelius_Symphony.html)
 * [Strauss - *Vier Letzte Lieder*](./Strauss_Lieder.html)
+* [Stravinsky - Concerto in D for String Orchestra (*Basle*)](./Stravinsky_Concerto.html)
 
 
 
