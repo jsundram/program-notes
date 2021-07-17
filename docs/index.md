@@ -25,6 +25,7 @@
 * [Prokofiev - Symphony #1 in D major, "Classical," Opus 25](./Prokofiev_Symphony1.html)
 * [Prokofiev - Symphony #5 in B-flat, Opus 100](./Prokofiev_Symphony5.html)
 * [Ravel - Rhapsodie Espagnole](./Ravel_Rhapsodie.html)
+* [Rossini - Overture to *La Cenerentola*](./Rossini_OvertureC.html)
 
 
 
