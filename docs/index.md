@@ -28,6 +28,7 @@
 * [Rossini - Overture to *La Cenerentola*](./Rossini_OvertureC.html)
 * [Rossini - Overture to *Gillaume Tell*](./Rossini_OvertureW.html)
 * [Shostakovich - Six Romances on Lyrics by British Poets, Opus 62/140](./Shostakovich_Romances.html)
+* [Sibilius - Symphony #2 in D major, Opus 43](./Sibelius_Symphony.html)
 
 
 
