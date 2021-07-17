@@ -21,8 +21,8 @@
 * [Mahler - *Adagietto* from Symphony #5](./Mahler_Adagietto.html)
 * [Mozart - Piano Concerto #20 in D minor, K. 466](./Mozart_Concerto.html)
 * [Mozart - A Musical Joke, K. 522](./Mozart_Joke.html)
-* [Mozart - Symphony #31 in D major *Paris* K. 297 (300a)](./Mozart_Symphony.html)
-* [Prokofiev - Symphony #1 in D major, "Classical," Opus 25](./Prokofiev_Symphony1.html)
+* [Mozart - Symphony #31 in D major, *Paris*, K. 297 (300a)](./Mozart_Symphony.html)
+* [Prokofiev - Symphony #1 in D major, *Classical*, Opus 25](./Prokofiev_Symphony1.html)
 * [Prokofiev - Symphony #5 in B-flat, Opus 100](./Prokofiev_Symphony5.html)
 * [Ravel - Rhapsodie Espagnole](./Ravel_Rhapsodie.html)
 * [Rossini - Overture to *La Cenerentola*](./Rossini_OvertureC.html)
@@ -32,6 +32,7 @@
 * [Strauss - *Vier Letzte Lieder*](./Strauss_Lieder.html)
 * [Stravinsky - Concerto in D for String Orchestra (*Basle*)](./Stravinsky_Concerto.html)
 * [Stravinsky - Symphonies of Wind Instruments](./Stravinsky_Symphonies.html)
+* [Tchaikovsky - Symphony #6 in B minor, *Pathetique*, Opus 74](./Tchaikovsky_Symphony.html)
 
 
 
