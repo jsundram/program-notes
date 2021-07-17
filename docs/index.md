@@ -33,6 +33,7 @@
 * [Stravinsky - Concerto in D for String Orchestra (*Basle*)](./Stravinsky_Concerto.html)
 * [Stravinsky - Symphonies of Wind Instruments](./Stravinsky_Symphonies.html)
 * [Tchaikovsky - Symphony #6 in B minor, *Pathetique*, Opus 74](./Tchaikovsky_Symphony.html)
+* [Torelli - Concerto Grosso for Two Violins, Opus 8, #2](./Torelli_Concerto.html)
 
 
 
