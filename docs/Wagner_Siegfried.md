@@ -1,0 +1,14 @@
+# Siegfried Idyll (1870)
+by Richard Wagner (May 22, 1813&ndash;February 13, 1883)
+
+On July 7, 1864, the most infamous *m&eacute;nage &aacute; trois* in music history took place in the Villa Pelle on Lake Starnberg. It resulted in a divorce, a child, a marriage, lots of rumors, and a mythical piece of music.  
+
+Cosima Liszt, daughter of the famed Franz Liszt, was married to Hans von B&uuml;low, one of the most famous conductors and pianists of the day, and a close friend of Wagner's. The triangle between Hans, Cosima, and Wagner at the Lake Starnberg Villa supposedly inspired a "Starnberg" quartet from him, of which only the theme survived. However, it is now thought that even the "Starnberg" theme originated four months later, while Wagner was alone in Munich.
+
+A definite product of Lake Starnberg was Wagner and Cosima's child, Isolde. Because Wagner feared that an illegitimate child would anger his patrons, causing him to lose financial support, he didn't claim Isolde as his own, and acted only as her godfather. Five years and two more illegitimate children later, Richard and Cosima were finally married, on August 25, 1870. Von B&uuml;low never remarried.
+
+During this time Wagner was at work on *Siegfried*, the third part of his imposing *Ring* tetralogy. He used the "Starnberg" theme to set the love duet between Siegfried and Brunnhilde, no doubt a reference to Wagner's own love for Cosima. On June 6, 1869, a son was born to him and Cosima. "[Cosima] has borne to me a wonderfully beautiful and vigorous boy whom I could boldly call 'Siegfried'; he is now growing, together with my work . . ." 
+
+In *Siegfried Idyll*, Wagner wove together a set of musical references to his love for Cosima and their newborn son Siegfried. The "Starnberg" theme is not only a reference to his and Cosima's love, but also to Siegfried and Brunnhilde's in Act III of *Siegfried*. Wagner's love for his son is expressed in the *Idyll* via "Sleep, Children, Sleep", a German cradlesong. The *Idyll* is a labor of love, a sumptuous piece of music that expressed Wagner's paternal and romantic love in a tender and unforgettable way.
+
+Originally entitled *Tribschen Idyll*, the *Siegfried Idyll* was composed in Tribschen in 1870 as a birthday present for Cosima. Rehearsals took place with the utmost of privacy; the trumpeter is said to have rowed to the middle of the lake in order to practice without giving the secret away.  The work was performed on Christmas morning, on the stairs outside the bedroom. Cosima recorded the performance in her diary: "As I awoke, my ear caught a sound, which swelled fuller and fuller; no longer could I imagine myself to be dreaming, music was sounding, and such music! When it died away, Richard came into my room . . . and offered me the score of the symphonic birthday poem." 

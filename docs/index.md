@@ -35,6 +35,7 @@
 * [Tchaikovsky - Symphony #6 in B minor, *Pathetique*, Opus 74](./Tchaikovsky_Symphony.html)
 * [Torelli - Concerto Grosso for Two Violins, Opus 8, #2](./Torelli_Concerto.html)
 * [Vaughan Williams - Oboe Concerto in A minor](./VaughanWilliams_Concerto.html)
+* [Wagner - Siegfried Idyll](./Wagner_Siegfried.html)
 
 
 
