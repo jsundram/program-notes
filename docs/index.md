@@ -27,6 +27,7 @@
 * [Ravel - Rhapsodie Espagnole](./Ravel_Rhapsodie.html)
 * [Rossini - Overture to *La Cenerentola*](./Rossini_OvertureC.html)
 * [Rossini - Overture to *Gillaume Tell*](./Rossini_OvertureW.html)
+* [Shostakovich - Six Romances on Lyrics by British Poets, Opus 62/140](./Shostakovich_Romances.html)
 
 
 
